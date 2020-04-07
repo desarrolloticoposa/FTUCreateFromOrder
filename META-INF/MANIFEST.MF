@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FTUCreateFromOrder
+Bundle-SymbolicName: net.frontuari.FTUCreateFromOrder
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: net.frontuari.FTUCreateFromOrder
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Service-Component: OSGI-INF/FTUCreateFromFactory.xml
